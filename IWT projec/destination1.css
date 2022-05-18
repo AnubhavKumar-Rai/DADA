@@ -25,7 +25,7 @@ text-decoration:none;
 }
 
 .horizontal-list li a:hover{
-color:orange;
+color:yellow;
 border-bottom:1px solid blue;
 }
 
