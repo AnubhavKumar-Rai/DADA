@@ -57,7 +57,7 @@ body{background-image: url('https://i.ytimg.com/vi/z9hQfKd9kfA/maxresdefault.jpg
 
 
 .t{height:400px;width:400px;border-radius:50%;position:absolute;left:0;right:0;top:0;bottom:0;margin:auto;animation: spin 5.5s infinite linear;}
-.moon{box-shadow: 5px 10px yellow;}
+.moon{box-shadow: 5px 10px blue;}
 
 
 
